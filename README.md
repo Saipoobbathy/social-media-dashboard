@@ -1,21 +1,32 @@
-🚀 Excited to share my Social Media Trends & IINVSYS Product Analysis project!
+# Social Media Trends & IINVSYS Product Analysis
 
-As part of this project, I analyzed technology-related social media content across LinkedIn, Instagram, and YouTube to understand trends, audience engagement, and platform performance.
+## Project Overview
+This project analyzes technology-related social media trends and engagement across LinkedIn, Instagram, and YouTube. The objective is to identify popular technology topics, understand audience engagement, compare platform performance, and explore marketing opportunities for IINVSYS products.
 
-**Tools used:**
+## Tools & Technologies
 - Excel – Data cleaning and analysis
-- SQL – Data querying and aggregation
-- Power BI – Interactive dashboard development
+- SQL – Data extraction and aggregation
+- Power BI – Interactive dashboard and visualization
 
-**What I explored:**
-- Technology trends and hashtags
-- Platform-wise engagement
-- Content performance
+## Dataset
+The cleaned dataset contains 247 social media records across LinkedIn, Instagram, and YouTube, covering 30 October to 18 November 2026.
+
+## Key Analysis
+- Technology trend analysis
+- Social media engagement comparison
+- Content type performance
+- Platform-wise performance
 - IINVSYS product marketing opportunities
-- Business insights and recommendations
 
-This project helped me strengthen my practical skills in data analytics, data visualization, and business intelligence.
+## Project Files
+- `data/` – Cleaned dataset
+- `powerbi/` – Power BI dashboard
+- `video/` – Dashboard demonstration
+- `screenshots/` – Dashboard screenshots
+- `sql/` – SQL analysis queries
 
-📊 GitHub Repository: [https://github.com/Saipoobbathy/social-media-trends-iinvsys-analysis]
+## Dashboard Preview
+See the Power BI dashboard file in the `powerbi` folder.
 
-#DataAnalytics #PowerBI #SQL #Excel #DataVisualization #SocialMediaAnalytics #BusinessIntelligence #DataAnalyst
+## Author
+Sai Poobbathy M
